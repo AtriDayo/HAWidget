@@ -361,3 +361,16 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ===== Custom for HAWidget =====
+
+# Local runtime config (contains token)
+config.json
+
+# Optional temp / exports
+*.tmp
+*.bak
+
+# Screenshots or test files (optional)
+*.png
+*.jpg

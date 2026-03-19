@@ -1,0 +1,21 @@
+{
+  "HaBaseUrl": "http://127.0.0.1:8123",
+  "Token": "",
+  "WindowGroups": [
+    {
+      "Title": "环境信息",
+      "WindowLevel": "TopMost",
+      "Left": 100,
+      "Top": 100,
+      "Width": 320,
+      "Height": 240,
+      "Sensors": [
+        {
+          "Title": "客厅温度",
+          "EntityId": "sensor.living_room_temperature",
+          "CustomUnit": "°C"
+        }
+      ]
+    }
+  ]
+}
