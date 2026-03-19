@@ -14,9 +14,9 @@
 
 ## 运行方式
 
-1. 复制 `config.example.json` 为 `config.json`
-2. 填写 Home Assistant 地址和长期访问令牌
-3. 启动程序
+1. 复制 Sample 文件夹下的 `config.example.json` ，复制到程序根目录下并重命名为 `config.json`
+2. 启动程序
+3. 在程序的系统托盘右键打开设置，填写 Home Assistant 地址和长期访问令牌，即可使用
 
 ## 技术栈
 

@@ -374,3 +374,7 @@ config.json
 # Screenshots or test files (optional)
 *.png
 *.jpg
+
+# Except for assets folder
+!HAWidget/Assets
+!HAWidget/Assets/**
